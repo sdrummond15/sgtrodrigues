@@ -375,6 +375,57 @@ a:hover {
     color: #FFF;
 }
 
+
+#menu-fixed {
+    width: 100%;
+    display: table;
+    background-color: #00873b;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+}
+
+.menu-fixed {
+    display: table;
+    margin: auto;
+    position: relative;
+}
+
+.main-menu-fixed {
+    display: table;
+}
+
+.main-menu-fixed ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.main-menu-fixed ul li {
+    float: left;
+}
+
+.main-menu-fixed ul li a {
+    padding: 20px 30px;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed';
+    display: table;
+    transition: all 300ms;
+    font-size: 24px;
+    color: #FFF;
+}
+
+.main-menu-fixed ul li a:hover {
+    background-color: #01602a;
+    color: #FFF;
+}
+
+.main-menu-fixed ul li a.active {
+    background-color: #01602a;
+    color: #FFF;
+}
+
 #menuresp {
     display: none;
 }

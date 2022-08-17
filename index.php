@@ -81,6 +81,7 @@
                     </ul>
                 </div>
             </div>
+
             <div id="menuresp">
                 <button title="button"><i class="fas fa-bars"></i></button>
                 <ul class="resposive">
@@ -90,22 +91,43 @@
                 </ul>
             </div>
         </div>
-
     </header>
+
+    <div id="menu-fixed">
+        <div class="menu-fixed">
+            <div class="main-menu-fixed">
+                <ul>
+                    <li><a href="#resultado-voto">RESULTADO DO SEU VOTO</a></li>
+                    <li><a href="#downloads">DOWNLOADS</a></li>
+                    <li><a href="#contato">CONTATO</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="menuresp">
+            <button title="button"><i class="fas fa-bars"></i></button>
+            <ul class="resposive">
+                <li><a href="#resultado-voto">RESULTADO DO SEU VOTO</a></li>
+                <li><a href="#downloads">DOWNLOADS</a></li>
+                <li><a href="#contato">CONTATO</a></li>
+            </ul>
+        </div>
+    </div>
 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <div class="banner" style="background-image: url('images/banners/back-eleitores.jpg');">
-                    <div class="banner-live">
-                        <div>
-                            <img src="images/banners/hoje-tem-live-sargento-rodrigues.png" class="live-desc" alt="Live Sargento Rodrigues" />
-                            <img src="images/banners/celular-live-sargento-rodrigues.png" class="live-cell" alt="Live Sargento Rodrigues" />
-                        </div>
-                    </div>
+                <div class="banner" style="background-image: url('images/banners/LAMINA_001.jpg');">
                 </div>
             </div>
             <div class="carousel-item">
+                <div class="banner" style="background-image: url('images/banners/LAMINA_002.jpg');">
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="banner" style="background-image: url('images/banners/LAMINA_003.jpg');">
+                </div>
+            </div>
+            <!-- <div class="carousel-item">
                 <div class="banner" style="background-image: url(images/banners/back-eleitores.jpg);">
                     <div class="banner-live">
                         <div>
@@ -114,7 +136,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -155,7 +177,9 @@
     <section id="resultado-voto">
         <div class="resultado-voto">
             <article>
-                <img src="images/clique-e-conheca.png" class="clique-conheca" alt="Clique e conheça" />
+                <a download="SARGENTO-RODRIGUES_22122_RESULTADO-DO-SEU-VOTO.pdf" href="pdf/SARGENTO-RODRIGUES_22122_RESULTADO-DO-SEU-VOTO.pdf" title="SARGENTO RODRIGUES 22122 RESULTADO DO SEU VOTO">
+                    <img src="images/clique-e-conheca.png" class="clique-conheca" alt="Clique e conheça" />
+                </a>
                 <img src="images/resultado-voto.png" class="resultado-seu-voto" alt="Resultado do seu voto" />
             </article>
         </div>
@@ -289,28 +313,64 @@
             <article>
                 <h2>Contato</h2>
                 <div class="ctt">
-                    <img src="images/icons-contato/facebook.png">
-                    <p>depsargentorodrigues</p>
+                    <a href="#" target="_blank">
+                        <img src="images/icons-contato/facebook.png">
+                    </a>
+                    <p>
+                        <a href="#" target="_blank">
+                            depsargentorodrigues
+                        </a>
+                    </p>
                 </div>
                 <div class="ctt">
-                    <img src="images/icons-contato/instagram.png">
-                    <p>sargentorodriguesoficial</p>
+                    <a href="#" target="_blank">
+                        <img src="images/icons-contato/instagram.png">
+                    </a>
+                    <p>
+                        <a href="#" target="_blank">
+                            sargentorodriguesoficial
+                        </a>
+                    </p>
                 </div>
                 <div class="ctt">
-                    <img src="images/icons-contato/youtube.png">
-                    <p>depsargentorodrigues</p>
+                    <a href="#" target="_blank">
+                        <img src="images/icons-contato/youtube.png">
+                    </a>
+                    <p>
+                        <a href="#" target="_blank">
+                            depsargentorodrigues
+                        </a>
+                    </p>
                 </div>
                 <div class="ctt">
-                    <img src="images/icons-contato/whatsapp.png">
-                    <p>31 99802 2122</p>
+                    <a href="#" target="_blank">
+                        <img src="images/icons-contato/whatsapp.png">
+                    </a>
+                    <p>
+                        <a href="#" target="_blank">
+                            31 99802 2122
+                        </a>
+                    </p>
                 </div>
                 <div class="ctt">
-                    <img src="images/icons-contato/telefone-velho.png">
-                    <p>31 99802 2122</p>
+                    <a href="#" target="_blank">
+                        <img src="images/icons-contato/telefone-velho.png">
+                    </a>
+                    <p>
+                        <a href="#" target="_blank">
+                            31 99802 2122
+                        </a>
+                    </p>
                 </div>
                 <div class="ctt">
-                    <img src="images/icons-contato/e-mail.png">
-                    <p>sargentorodrigues22122@gmail.com</p>
+                    <a href="#" target="_blank">
+                        <img src="images/icons-contato/e-mail.png">
+                    </a>
+                    <p>
+                        <a href="#" target="_blank">
+                            sargentorodrigues22122@gmail.com
+                        </a>
+                    </p>
                 </div>
             </article>
         </div>
