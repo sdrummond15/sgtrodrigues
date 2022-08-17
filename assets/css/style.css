@@ -1,0 +1,675 @@
+@font-face {
+    font-family: 'MADE Tommy Soft Outline';
+    src: url('fonts/MADETommySoftOutline-Bold.eot');
+    src: url('fonts/MADETommySoftOutline-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoftOutline-Bold.woff2') format('woff2'),
+        url('fonts/MADETommySoftOutline-Bold.woff') format('woff'),
+        url('fonts/MADETommySoftOutline-Bold.ttf') format('truetype'),
+        url('fonts/MADETommySoftOutline-Bold.svg#MADETommySoftOutline-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft';
+    src: url('fonts/MADETommySoft-Black.eot');
+    src: url('fonts/MADETommySoft-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoft-Black.woff2') format('woff2'),
+        url('fonts/MADETommySoft-Black.woff') format('woff'),
+        url('fonts/MADETommySoft-Black.ttf') format('truetype'),
+        url('fonts/MADETommySoft-Black.svg#MADETommySoft-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft Outline';
+    src: url('fonts/MADETommySoftOutline-Black.eot');
+    src: url('fonts/MADETommySoftOutline-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoftOutline-Black.woff2') format('woff2'),
+        url('fonts/MADETommySoftOutline-Black.woff') format('woff'),
+        url('fonts/MADETommySoftOutline-Black.ttf') format('truetype'),
+        url('fonts/MADETommySoftOutline-Black.svg#MADETommySoftOutline-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft';
+    src: url('fonts/MADETommySoft-Bold.eot');
+    src: url('fonts/MADETommySoft-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoft-Bold.woff2') format('woff2'),
+        url('fonts/MADETommySoft-Bold.woff') format('woff'),
+        url('fonts/MADETommySoft-Bold.ttf') format('truetype'),
+        url('fonts/MADETommySoft-Bold.svg#MADETommySoft-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft Outline';
+    src: url('fonts/MADETommySoftOutline-ExtraBold.eot');
+    src: url('fonts/MADETommySoftOutline-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoftOutline-ExtraBold.woff2') format('woff2'),
+        url('fonts/MADETommySoftOutline-ExtraBold.woff') format('woff'),
+        url('fonts/MADETommySoftOutline-ExtraBold.ttf') format('truetype'),
+        url('fonts/MADETommySoftOutline-ExtraBold.svg#MADETommySoftOutline-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft';
+    src: url('fonts/MADETommySoft-ExtraBold.eot');
+    src: url('fonts/MADETommySoft-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoft-ExtraBold.woff2') format('woff2'),
+        url('fonts/MADETommySoft-ExtraBold.woff') format('woff'),
+        url('fonts/MADETommySoft-ExtraBold.ttf') format('truetype'),
+        url('fonts/MADETommySoft-ExtraBold.svg#MADETommySoft-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft Outline';
+    src: url('fonts/MADETommySoftOutline-Light.eot');
+    src: url('fonts/MADETommySoftOutline-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoftOutline-Light.woff2') format('woff2'),
+        url('fonts/MADETommySoftOutline-Light.woff') format('woff'),
+        url('fonts/MADETommySoftOutline-Light.ttf') format('truetype'),
+        url('fonts/MADETommySoftOutline-Light.svg#MADETommySoftOutline-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft';
+    src: url('fonts/MADETommySoft-Light.eot');
+    src: url('fonts/MADETommySoft-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoft-Light.woff2') format('woff2'),
+        url('fonts/MADETommySoft-Light.woff') format('woff'),
+        url('fonts/MADETommySoft-Light.ttf') format('truetype'),
+        url('fonts/MADETommySoft-Light.svg#MADETommySoft-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft Outline';
+    src: url('fonts/MADETommySoftOutline-Medium.eot');
+    src: url('fonts/MADETommySoftOutline-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoftOutline-Medium.woff2') format('woff2'),
+        url('fonts/MADETommySoftOutline-Medium.woff') format('woff'),
+        url('fonts/MADETommySoftOutline-Medium.ttf') format('truetype'),
+        url('fonts/MADETommySoftOutline-Medium.svg#MADETommySoftOutline-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft';
+    src: url('fonts/MADETommySoft-Medium.eot');
+    src: url('fonts/MADETommySoft-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoft-Medium.woff2') format('woff2'),
+        url('fonts/MADETommySoft-Medium.woff') format('woff'),
+        url('fonts/MADETommySoft-Medium.ttf') format('truetype'),
+        url('fonts/MADETommySoft-Medium.svg#MADETommySoft-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft Outline';
+    src: url('fonts/MADETommySoftOutline.eot');
+    src: url('fonts/MADETommySoftOutline.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoftOutline.woff2') format('woff2'),
+        url('fonts/MADETommySoftOutline.woff') format('woff'),
+        url('fonts/MADETommySoftOutline.ttf') format('truetype'),
+        url('fonts/MADETommySoftOutline.svg#MADETommySoftOutline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft';
+    src: url('fonts/MADETommySoft.eot');
+    src: url('fonts/MADETommySoft.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoft.woff2') format('woff2'),
+        url('fonts/MADETommySoft.woff') format('woff'),
+        url('fonts/MADETommySoft.ttf') format('truetype'),
+        url('fonts/MADETommySoft.svg#MADETommySoft') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft Outline';
+    src: url('fonts/MADETommySoftOutline-Thin.eot');
+    src: url('fonts/MADETommySoftOutline-Thin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoftOutline-Thin.woff2') format('woff2'),
+        url('fonts/MADETommySoftOutline-Thin.woff') format('woff'),
+        url('fonts/MADETommySoftOutline-Thin.ttf') format('truetype'),
+        url('fonts/MADETommySoftOutline-Thin.svg#MADETommySoftOutline-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Tommy Soft';
+    src: url('fonts/MADETommySoft-Thin.eot');
+    src: url('fonts/MADETommySoft-Thin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MADETommySoft-Thin.woff2') format('woff2'),
+        url('fonts/MADETommySoft-Thin.woff') format('woff'),
+        url('fonts/MADETommySoft-Thin.ttf') format('truetype'),
+        url('fonts/MADETommySoft-Thin.svg#MADETommySoft-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('fonts/RobotoCondensed-Bold.eot');
+    src: url('fonts/RobotoCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoCondensed-Bold.woff2') format('woff2'),
+        url('fonts/RobotoCondensed-Bold.woff') format('woff'),
+        url('fonts/RobotoCondensed-Bold.ttf') format('truetype'),
+        url('fonts/RobotoCondensed-Bold.svg#RobotoCondensed-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('fonts/RobotoCondensed-BoldItalic.eot');
+    src: url('fonts/RobotoCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoCondensed-BoldItalic.woff2') format('woff2'),
+        url('fonts/RobotoCondensed-BoldItalic.woff') format('woff'),
+        url('fonts/RobotoCondensed-BoldItalic.ttf') format('truetype'),
+        url('fonts/RobotoCondensed-BoldItalic.svg#RobotoCondensed-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('fonts/RobotoCondensed-Italic.eot');
+    src: url('fonts/RobotoCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoCondensed-Italic.woff2') format('woff2'),
+        url('fonts/RobotoCondensed-Italic.woff') format('woff'),
+        url('fonts/RobotoCondensed-Italic.ttf') format('truetype'),
+        url('fonts/RobotoCondensed-Italic.svg#RobotoCondensed-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('fonts/RobotoCondensed-Light.eot');
+    src: url('fonts/RobotoCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoCondensed-Light.woff2') format('woff2'),
+        url('fonts/RobotoCondensed-Light.woff') format('woff'),
+        url('fonts/RobotoCondensed-Light.ttf') format('truetype'),
+        url('fonts/RobotoCondensed-Light.svg#RobotoCondensed-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('fonts/RobotoCondensed-LightItalic.eot');
+    src: url('fonts/RobotoCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoCondensed-LightItalic.woff2') format('woff2'),
+        url('fonts/RobotoCondensed-LightItalic.woff') format('woff'),
+        url('fonts/RobotoCondensed-LightItalic.ttf') format('truetype'),
+        url('fonts/RobotoCondensed-LightItalic.svg#RobotoCondensed-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('fonts/RobotoCondensed-Regular.eot');
+    src: url('fonts/RobotoCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoCondensed-Regular.woff2') format('woff2'),
+        url('fonts/RobotoCondensed-Regular.woff') format('woff'),
+        url('fonts/RobotoCondensed-Regular.ttf') format('truetype'),
+        url('fonts/RobotoCondensed-Regular.svg#RobotoCondensed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', Arial;
+    font-size: 18px;
+    color: #444;
+}
+
+a {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #001938;
+    text-decoration: none;
+}
+
+/*** BANNER ***/
+
+#banner {
+    background-color: #093c6b;
+    width: 100%;
+    display: table;
+}
+
+.banner-container {
+    width: 1170px;
+    display: table;
+    margin: auto;
+}
+
+.deputado {
+    display: table;
+    margin: auto;
+}
+
+.deputado img.sgt {
+    float: left;
+}
+
+.deputado .campanha {
+    float: right;
+    margin-top: 100px;
+    margin-left: -200px;
+}
+
+.deputado .campanha img {
+    display: block;
+    clear: both;
+    float: right;
+}
+
+.deputado .campanha img.c22122 {
+    margin-bottom: 20px;
+}
+
+.deputado .campanha p {
+    display: table;
+    color: #FFF;
+    text-align: center;
+    margin-left: 230px;
+    clear: both;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/*** HEADER ***/
+
+#menu {
+    width: 100%;
+    display: table;
+    background-color: #00873b;
+}
+
+.menu {
+    display: table;
+    margin: auto;
+    position: relative;
+}
+
+.main-menu {
+    display: table;
+    right: 0;
+    bottom: 0;
+}
+
+.main-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.main-menu ul li {
+    float: left;
+}
+
+.main-menu ul li a {
+    padding: 20px 30px;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed';
+    display: table;
+    transition: all 300ms;
+    font-size: 24px;
+    color: #FFF;
+}
+
+.main-menu ul li a:hover {
+    background-color: #01602a;
+    color: #FFF;
+}
+
+.main-menu ul li a.active {
+    background-color: #01602a;
+    color: #FFF;
+}
+
+#menuresp {
+    display: none;
+}
+
+#menuresp button {
+    margin-right: 2%;
+    background-color: #87898b;
+    border: 0;
+    padding: 5px 8px;
+    border-radius: 3px;
+    color: #FFF;
+    line-height: 1;
+    cursor: pointer;
+    float: right;
+    margin-top: -40px;
+    position: relative;
+}
+
+#menuresp button:hover {
+    background-color: #3d8538;
+}
+
+#menuresp ul {
+    padding: 0;
+    margin: 0;
+    display: none;
+    width: 100%;
+}
+
+#menuresp ul li {
+    width: 100%;
+}
+
+#menuresp ul li a {
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Condensed';
+    transition: all 300ms;
+    padding: 3px 20px;
+    display: table;
+}
+
+#menuresp ul li a:hover {
+    background-color: #214064;
+    color: #FFF;
+}
+
+.coragem {
+    background-color: #3d8538;
+    width: 100%;
+    display: table;
+    background-image: url('../../images/back-brasil.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.coragem>article {
+    display: table;
+    margin: auto;
+}
+
+.coragem>article .intro {
+    display: table;
+    margin: auto;
+}
+
+.coragem>article img {
+    float: left;
+}
+
+.coragem>article h1 {
+    font-size: 80px;
+    color: #f3eb0a;
+    font-family: 'MADE Tommy Soft';
+    font-weight: 900;
+    line-height: 0.8;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    float: left;
+    margin-top: 200px;
+    margin-left: -260px;
+}
+
+.coragem>article .text {
+    padding: 40px;
+    background-color: #154678;
+    width: 890px;
+    margin-top: -111px;
+}
+
+.coragem>article .text p {
+    color: #FFF;
+    font-size: 20px;
+    text-align: justify;
+    margin: 0;
+}
+
+.coragem>article h3 {
+    color: #FFF;
+    font-size: 20px;
+    text-align: center;
+    margin: 30px 0;
+    font-family: 'MADE Tommy Soft';
+    font-weight: bold;
+}
+
+
+
+.downloads {
+    width: 100%;
+    display: table;
+    background-color: #eeeded;
+}
+
+.downloads>article h2 {
+    color: #093c6b;
+    font-size: 36px;
+    text-align: center;
+    margin: 30px 0;
+    font-family: 'MADE Tommy Soft';
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.downloads>article h3 {
+    color: #00873b;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 0 40px 0;
+    font-family: 'MADE Tommy Soft';
+    font-weight: medium;
+    text-transform: uppercase;
+}
+
+.downloads>article h4 {
+    color: #093c6b;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 0 30px 0;
+    font-family: 'MADE Tommy Soft';
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+#figurinhas {
+    display: table;
+    margin: auto;
+}
+
+#figurinhas ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: table;
+    width: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#figurinhas ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+#figurinhas ul li a {
+    display: table;
+}
+
+#figurinhas ul li a img {
+    max-width: 150px;
+}
+
+.line {
+    height: 3px;
+    background-color: #989a9c;
+    margin-bottom: 30px;
+    width: 950px;
+}
+
+#facebook {
+    display: table;
+    margin: auto;
+}
+
+#facebook a {
+    display: table;
+    margin-bottom: 30px;
+}
+
+#facebook a img {
+    width: 950px;
+}
+
+#avatar {
+    display: table;
+    margin: auto;
+}
+
+#avatar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: table;
+    width: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#avatar ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+#avatar ul li a {
+    display: table;
+}
+
+#avatar ul li a img {
+    max-width: 150px;
+}
+
+#posts {
+    display: table;
+    margin: auto;
+}
+
+#posts ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: table;
+    width: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+    max-width: 950px;
+}
+
+#posts ul li {
+    display: inline-block;
+    margin: 10px;
+}
+
+#posts ul li a {
+    display: table;
+}
+
+#posts ul li a img {
+    max-width: 215px;
+}
+
+.contato {
+    width: 100%;
+    display: table;
+}
+
+.contato article {
+    width: 950px;
+    display: table;
+    margin: auto;
+}
+
+.contato>article h2 {
+    color: #093c6b;
+    font-size: 36px;
+    text-align: center;
+    margin: 30px 0;
+    font-family: 'MADE Tommy Soft';
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.contato .ctt {
+    display: inline-block;
+    vertical-align: middle;
+    width: calc(33.33% - 10px);
+    margin: 0 5px 30px 5px;
+    text-align: center;
+}
+
+.contato .ctt img {
+    width: 70px;
+}
+
+.contato .ctt p {
+    margin: 10px 0;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+    color: #696a6b;
+}
+
+#gabinete p {
+    margin: 20px 0;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+    color: #093c6b;
+    text-align: center;
+}
