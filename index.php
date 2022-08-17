@@ -3,56 +3,22 @@
 <html lang="en">
 
 <head>
-
     <meta charset="UTF-8">
-
     <title>22122 - Deputado Sargento Rodrigues</title>
-
     <meta name="description" content="22122 - Deputado Estadual Sargento Rodrigues">
-
     <meta name="keywords" content="22122, Deputado Sargento Rodrigues, Deputado Estadual Sargento Rodrigues">
-
     <meta name="author" content="SDrummond">
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <meta property="og:title" content="22122 - Deputado Sargento Rodrigues" />
-
     <meta property="og:description" content="22122 - Deputado Estadual Sargento Rodrigues">
-
     <meta property="og:url" content="http://deputadoestadualsargentorodrigues.com.br">
-
     <meta property="og:image" content="http://deputadoestadualsargentorodrigues.com.br/images/posts-apoio/POST-APOIO-2.png">
-
     <meta property="og:image:type" content="image/jpeg">
-
     <meta property="og:image:width" content="450">
-
     <link rel="icon" type="image/png" href="images/brasil.png" />
-
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-
     <link rel="stylesheet" type="text/css" href="assets/css/fontawesome-all.min.css">
-
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
-
-
-
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-46101844-9"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-46101844-9');
-    </script>
-
 </head>
 
 <body>
