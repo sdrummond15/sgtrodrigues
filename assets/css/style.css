@@ -422,6 +422,50 @@ a:hover {
     color: #FFF;
 }
 
+.carousel-item {
+    height: 70vh;
+    min-height: 500px;
+}
+
+.carousel-item>div.banner {
+    height: 100%;
+    width: 100%;
+    display: block;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.carousel-item>div.banner>div {
+    height: 100%;
+    width: 100%;
+    display: block;
+    position: relative;
+}
+
+.carousel-item>div.banner>div.banner-live {
+    width: 1170px;
+    margin: auto;
+    display: table;
+    height: 100%;
+}
+
+.carousel-item>div.banner>div.banner-live div {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.carousel-item>div.banner>div.banner-live div img.live-desc {
+    width: 60%;
+    float: left;
+    margin-top: 100px;
+}
+
+.carousel-item>div.banner>div.banner-live div img.live-cell {
+    height: 670px;
+    float: right;
+}
+
 .coragem {
     background-color: #3d8538;
     width: 100%;
@@ -480,7 +524,28 @@ a:hover {
     font-weight: bold;
 }
 
+.resultado-voto {
+    background-color: #154678;
+    width: 100%;
+    display: table;
+    background-image: url('../../images/back-resultado.jpg');
+    background-position: center;
+    background-size: cover;
+}
 
+.resultado-voto>article {
+    display: table;
+    margin: 60px auto;
+}
+
+.resultado-voto>article .clique-conheca {
+    width: 240px;
+    margin-right: 60px;
+}
+
+.resultado-voto>article .resultado-seu-voto {
+    width: 350px;
+}
 
 .downloads {
     width: 100%;

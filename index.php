@@ -93,6 +93,40 @@
 
     </header>
 
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active">
+                <div class="banner" style="background-image: url('images/banners/back-eleitores.jpg');">
+                    <div class="banner-live">
+                        <div>
+                            <img src="images/banners/hoje-tem-live-sargento-rodrigues.png" class="live-desc" alt="Live Sargento Rodrigues" />
+                            <img src="images/banners/celular-live-sargento-rodrigues.png" class="live-cell" alt="Live Sargento Rodrigues" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="banner" style="background-image: url(images/banners/back-eleitores.jpg);">
+                    <div class="banner-live">
+                        <div>
+                            <img src="images/banners/hoje-tem-live-sargento-rodrigues.png" class="live-desc" alt="Live Sargento Rodrigues" />
+                            <img src="images/banners/celular-live-sargento-rodrigues.png" class="live-cell" alt="Live Sargento Rodrigues" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    </div>
+
     <section id="coragem">
         <div class="coragem">
             <article>
@@ -114,6 +148,15 @@
                 <h3>
                     << CLIQUE NO BANNER ABAIXO E SAIBA MAIS SOBRE A ATUAÇÃO DO DEPUTADO>>
                 </h3>
+            </article>
+        </div>
+    </section>
+
+    <section id="resultado-voto">
+        <div class="resultado-voto">
+            <article>
+                <img src="images/clique-e-conheca.png" class="clique-conheca" alt="Clique e conheça" />
+                <img src="images/resultado-voto.png" class="resultado-seu-voto" alt="Resultado do seu voto" />
             </article>
         </div>
     </section>
