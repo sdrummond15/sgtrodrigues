@@ -1043,4 +1043,12 @@ a:hover {
         width: 200px;
     }
 
+    .downloads>article h4 {
+        font-size: 20px;
+    }
+
+    #posts ul li a img {
+        max-width: 160px;
+    }
+
 }
