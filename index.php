@@ -281,61 +281,61 @@
             <article>
                 <h2>Contato</h2>
                 <div class="ctt">
-                    <a href="#" target="_blank">
+                    <a href="https://www.facebook.com/depsargentorodrigues" target="_blank">
                         <img src="images/icons-contato/facebook.png">
                     </a>
                     <p>
-                        <a href="#" target="_blank">
+                        <a href="https://www.facebook.com/depsargentorodrigues" target="_blank">
                             depsargentorodrigues
                         </a>
                     </p>
                 </div>
                 <div class="ctt">
-                    <a href="#" target="_blank">
+                    <a href="https://www.instagram.com/sargentorodriguesoficial/" target="_blank">
                         <img src="images/icons-contato/instagram.png">
                     </a>
                     <p>
-                        <a href="#" target="_blank">
+                        <a href="https://www.instagram.com/sargentorodriguesoficial/" target="_blank">
                             sargentorodriguesoficial
                         </a>
                     </p>
                 </div>
                 <div class="ctt">
-                    <a href="#" target="_blank">
+                    <a href="https://www.youtube.com/depsargentorodrigues" target="_blank">
                         <img src="images/icons-contato/youtube.png">
                     </a>
                     <p>
-                        <a href="#" target="_blank">
+                        <a href="https://www.youtube.com/depsargentorodrigues" target="_blank">
                             depsargentorodrigues
                         </a>
                     </p>
                 </div>
                 <div class="ctt">
-                    <a href="#" target="_blank">
+                    <a href="https://api.whatsapp.com/send?phone=553198022122&text=Como%20posso%20ajudar%20na%20campanha?" target="_blank">
                         <img src="images/icons-contato/whatsapp.png">
                     </a>
                     <p>
-                        <a href="#" target="_blank">
+                        <a href="https://api.whatsapp.com/send?phone=553198022122&text=Como%20posso%20ajudar%20na%20campanha?" target="_blank">
                             31 99802 2122
                         </a>
                     </p>
                 </div>
                 <div class="ctt">
-                    <a href="#" target="_blank">
+                    <a href="tel:+5531998022122" target="_blank">
                         <img src="images/icons-contato/telefone-velho.png">
                     </a>
                     <p>
-                        <a href="#" target="_blank">
+                        <a href="tel:+5531998022122" target="_blank">
                             31 99802 2122
                         </a>
                     </p>
                 </div>
                 <div class="ctt">
-                    <a href="#" target="_blank">
+                    <a href="mailto:sargentorodrigues22122@gmail.com" target="_blank">
                         <img src="images/icons-contato/e-mail.png">
                     </a>
                     <p>
-                        <a href="#" target="_blank">
+                        <a href="mailto:sargentorodrigues22122@gmail.com" target="_blank">
                             sargentorodrigues22122@gmail.com
                         </a>
                     </p>
