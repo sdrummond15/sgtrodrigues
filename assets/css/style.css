@@ -1052,3 +1052,50 @@ a:hover {
     }
 
 }
+
+@media screen and (max-width: 380px) {
+    .deputado>img {
+        height: 130px;
+    }
+
+    .deputado .campanha img.deputado-sargento-rodrigues {
+        width: 110px;
+    }
+
+    .deputado .campanha img.c22122 {
+        width: 80px;
+        margin-bottom: 10px;
+    }
+
+    .carousel-item {
+        height: 16vh;
+    }
+
+    .coragem>article img {
+        width: 220px;
+    }
+
+    .coragem>article h1 {
+        font-size: 20px;
+        margin-top: 80px;
+        margin-left: -90px;
+    }
+
+    .coragem>article .text {
+        margin: -38px auto 0 auto;
+    }
+
+    .resultado-voto>article .clique-conheca {
+        width: 80px;
+    }
+
+    .resultado-voto>article .resultado-seu-voto {
+        width: 120px;
+    }
+
+    .contato .ctt p,
+    #gabinete p {
+        font-size: 16px;
+    }
+
+}
