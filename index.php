@@ -50,7 +50,9 @@
 
             <div id="menuresp">
                 <button title="button"><i class="fas fa-bars"></i></button>
-                <ul class="resposive">
+            </div>
+            <div id="responsive">
+                <ul>
                     <li><a href="#resultado-voto">RESULTADO DO SEU VOTO</a></li>
                     <li><a href="#downloads">DOWNLOADS</a></li>
                     <li><a href="#contato">CONTATO</a></li>

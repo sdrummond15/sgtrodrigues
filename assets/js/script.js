@@ -10,8 +10,9 @@ jQuery(document).ready(function ($) {
     }).trigger('resize');
 
     //EVENTO PARA SCROLL SLOW MENU E LOGO
-    $('.logo, .main-menu, #menuresp').on('click', 'a[href^="#"]', function (event) {
+    $('.logo, .main-menu, #responsive').on('click', 'a[href^="#"]', function (event) {
         event.preventDefault();
+        $('#responsive ul').hide();
 
         $('html, body').animate({
             scrollTop: $($.attr(this, 'href')).offset().top
@@ -19,25 +20,19 @@ jQuery(document).ready(function ($) {
 
     });
 
-    if($('header').scrollTop() >= $('#banner').height() + $('header').height()){
-        console.log('erqwer');
-    }
-    console.log($('header').offset().top);
-    console.log($('#banner').height() + $('header').height());
-
     $(window).on('resize', function () {
         if (!$("#menuresp button").is(':visible')) {
-            $('#menuresp ul').hide();
+            $('#responsive ul').hide();
         }
     }).trigger('resize');
 
 
     $("#menuresp button").click(function () {
-        $('#menuresp ul').slideToggle();
+        $('#responsive ul').slideToggle();
     });
 
-    $("#menuresp ul li a").click(function () {
-        $('#menuresp ul').slideToggle();
+    $(".responsive ul li a").click(function () {
+        $('#responsive ul').slideToggle();
     });
 
     
