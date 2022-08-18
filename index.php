@@ -5,20 +5,33 @@
 <head>
     <meta charset="UTF-8">
     <title>22122 - Deputado Sargento Rodrigues</title>
-    <meta name="description" content="22122 - Deputado Estadual Sargento Rodrigues">
-    <meta name="keywords" content="22122, Deputado Sargento Rodrigues, Deputado Estadual Sargento Rodrigues">
+    <meta name="description" content="22122 - Candidato Deputado Estadual Sargento Rodrigues">
+    <meta name="keywords" content="22122, Deputado Sargento Rodrigues, Deputado Estadual Sargento Rodrigues, candidato deputado estadual, deputado estadual mg">
     <meta name="author" content="SDrummond">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="22122 - Deputado Sargento Rodrigues" />
     <meta property="og:description" content="22122 - Deputado Estadual Sargento Rodrigues">
-    <meta property="og:url" content="http://deputadoestadualsargentorodrigues.com.br">
-    <meta property="og:image" content="http://deputadoestadualsargentorodrigues.com.br/images/posts-apoio/POST-APOIO-2.png">
+    <meta property="og:url" content="https://sargentorodrigues22122.com.br">
+    <meta property="og:image" content="https://sargentorodrigues22122.com.br/images/posts-apoio/POST-APOIO-2.png">
     <meta property="og:image:type" content="image/jpeg">
     <meta property="og:image:width" content="450">
     <link rel="icon" type="image/png" href="images/brasil.png" />
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/fontawesome-all.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LJ2FVECQ0B"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-LJ2FVECQ0B');
+    </script>
+
 </head>
 
 <body>
@@ -199,7 +212,7 @@
                     <div class="line"></div>
                 </div>
 
-                <h4>— AVATAR para redes sociais —</h4>
+                <h4>— Perfil de redes sociais —</h4>
 
                 <div id="avatar">
                     <ul>
@@ -216,6 +229,11 @@
                         <li>
                             <a download="sargento-rodrigues-22122-facebook.jpg" href="images/avatar/AVATAR-FACEBOOK3.jpg" title="Sargento Rodrigues 22122 facebook">
                                 <img alt="Sargento Rodrigues 22122 facebook" src="images/avatar/AVATAR-FACEBOOK3.jpg">
+                            </a>
+                        </li>
+                        <li>
+                            <a download="eu-apoio-e-voto-22122-facebook.png" href="images/avatar/AVATAR-22122.png" title="Eu apoio e voto 22122 facebook">
+                                <img alt="Eu apoio e voto 22122 facebook" src="images/avatar/AVATAR-22122.png">
                             </a>
                         </li>
                     </ul>
@@ -321,12 +339,12 @@
                     </p>
                 </div>
                 <div class="ctt">
-                    <a href="tel:+5531998022122" target="_blank">
+                    <a href="tel:+553133177077" target="_blank">
                         <img src="images/icons-contato/telefone-velho.png">
                     </a>
                     <p>
-                        <a href="tel:+5531998022122" target="_blank">
-                            31 99802 2122
+                        <a href="tel:+553133177077" target="_blank">
+                            31 3317.7077
                         </a>
                     </p>
                 </div>
